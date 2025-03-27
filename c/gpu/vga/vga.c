@@ -1,4 +1,4 @@
-#include "../include/vga.h"
+#include "./include/vga.h"
 
 #define VGA_BUFFER ((volatile ScreenChar*)0xB8000)
 #define VGA_WIDTH 80
